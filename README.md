@@ -2,6 +2,7 @@
 Gruppemedlemmer: Jenna, Louise, Danijel, Sara. 
 
 I denne repo kan du læse om Python. 
+
 Herunder dækkes følgende spørgsmål:
 
 Hvad kan sporgets bruges til? 
