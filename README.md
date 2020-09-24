@@ -21,5 +21,8 @@ Hvordan kan erfarne og uerfarne udviklere arbejde sammen på en hensigtsmæssig 
 Til slut forefindes et fungerende "Sten, saks, papir"-spil.
 
 Source fra de forskellige kodestykker: 
+
 https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/
+
+
 https://code.sololearn.com/c2I4XIiO36yH/#py
