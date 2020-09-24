@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff94195c-c95a-43fe-95de-674306c80860" name="Default Changelist" comment="" />
+    <list default="true" id="ff94195c-c95a-43fe-95de-674306c80860" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hx1wrmD9I72Ua6hHDQEWg1IBi3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,8 +30,30 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.rps">
+  <component name="RunManager" selected="Python.calculator">
+    <configuration name="calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Gruppe" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Gruppe" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calculator" />
         <item itemvalue="Python.rps" />
         <item itemvalue="Python.helloworld" />
       </list>
@@ -91,21 +122,29 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="537" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.797@0.23.1440.797" timestamp="1600938719203" />
-    <state width="978" height="135" key="GridCell.Tab.0.bottom" timestamp="1600940659306">
+    <state x="530" y="305" key="Github.ShareDialog" timestamp="1600941028947">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="978" height="135" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1600940659306" />
-    <state width="978" height="135" key="GridCell.Tab.0.center" timestamp="1600940659305">
+    <state x="530" y="305" key="Github.ShareDialog/0.23.1440.797@0.23.1440.797" timestamp="1600941028947" />
+    <state x="435" y="107" key="Github.UntrackedFilesDialog" timestamp="1600941035242">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="978" height="135" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1600940659305" />
-    <state width="978" height="135" key="GridCell.Tab.0.left" timestamp="1600940659305">
+    <state x="435" y="107" key="Github.UntrackedFilesDialog/0.23.1440.797@0.23.1440.797" timestamp="1600941035242" />
+    <state width="978" height="135" key="GridCell.Tab.0.bottom" timestamp="1600960843121">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="978" height="135" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1600940659305" />
-    <state width="978" height="135" key="GridCell.Tab.0.right" timestamp="1600940659306">
+    <state width="978" height="135" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1600960843121" />
+    <state width="978" height="135" key="GridCell.Tab.0.center" timestamp="1600960843120">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="978" height="135" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1600940659305" />
+    <state width="978" height="135" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1600960843120" />
+    <state width="978" height="135" key="GridCell.Tab.0.left" timestamp="1600960843119">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="978" height="135" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1600960843119" />
+    <state width="978" height="135" key="GridCell.Tab.0.right" timestamp="1600960843120">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="978" height="135" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1600960843120" />
   </component>
 </project>
